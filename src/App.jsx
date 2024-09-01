@@ -6,7 +6,7 @@ import spidermanImage from "./assets/spidermanImage.png";
 const App = () => {
   return (
     <div>
-      <h1 className="h1">hello fff</h1>
+      <h1 className="h1">Hello Anchal</h1>
       <img src={spidermanImage} alt="SpiderMan" />
     </div>
   );
