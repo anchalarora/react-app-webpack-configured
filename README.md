@@ -86,7 +86,7 @@ Port Configuration: You can change the port in webpack.config.js under the devSe
 
 Adding More Loaders/Plugins: Modify the webpack.config.js to add more features as per your project needs.
 
-This application should now be running on localhost. If you want to Fork repository and want to run locally, follow this guidelines Fork and Clone Github Repository https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+This application should now be running on localhost. If you want to Fork repository and want to run locally, follow this guidelines Fork and Clone Github Repository [Fork and clone GitHub repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 
 ✏️ Contributing
 
