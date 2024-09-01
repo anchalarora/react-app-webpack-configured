@@ -60,10 +60,12 @@ yarn install
 🚀 Running the App
 To start the development server and run the app locally:
 
+```bash
 npm start
 
-# or
 
+# or
+```bash
 yarn start
 
 The app will be available at http://localhost:3000.
@@ -72,10 +74,12 @@ The app will be available at http://localhost:3000.
 
 To create an optimized production build:
 
+```bash
 npm run build
 
 # or
 
+```bash
 yarn build
 
 The output will be in the dist directory, ready to be deployed.
