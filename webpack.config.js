@@ -13,7 +13,7 @@ const config = {
   mode: "development",
 
   devServer: {
-    port: 4321,
+    port: 3000,
     open: true,
   },
 
@@ -37,7 +37,6 @@ const config = {
         test: /\.(png|jpg|gif)$/,
         use: ["file-loader"],
       },
-
     ],
   },
 
